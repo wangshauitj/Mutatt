@@ -1,0 +1,18 @@
+[refcoco_unc][val], id[mrcn_cmr_with_st]'s acc is 76.65%
+[refcoco_unc][testA], id[mrcn_cmr_with_st]'s acc is 81.14%
+[refcoco_unc][testB], id[mrcn_cmr_with_st]'s acc is 69.99%
+
+[refcoco+_unc][val], id[mrcn_cmr_with_st]'s acc is 65.33%
+[refcoco+_unc][testA], id[mrcn_cmr_with_st]'s acc is 71.62%
+[refcoco+_unc][testB], id[mrcn_cmr_with_st]'s acc is 56.02%
+
+[refcocog_umd][val], id[mrcn_cmr_with_st]'s acc is 66.58%
+[refcocog_umd][test], id[mrcn_cmr_with_st]'s acc is 67.27%
+[refcoco_unc][val], id[best]'s acc is 78.35%
+[refcoco_unc][testA], id[best]'s acc is 82.52%
+[refcoco_unc][testB], id[best]'s acc is 71.50%
+[refcoco+_unc][val], id[best]'s acc is 67.90%
+[refcoco+_unc][testA], id[best]'s acc is 72.60%
+[refcoco+_unc][testB], id[best]'s acc is 58.60%
+[refcocog_umd][val], id[test99-2]'s acc is 68.67%
+[refcocog_umd][test], id[test99-2]'s acc is 69.03%

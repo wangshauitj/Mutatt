@@ -1,0 +1,32 @@
+
+[refcoco_unc][val], id[mrcn_cmr_with_st]'s acc is 85.57%
+[refcoco_unc][testA], id[mrcn_cmr_with_st]'s acc is 85.95%
+[refcoco_unc][testB], id[mrcn_cmr_with_st]'s acc is 84.36%
+
+[refcoco+_unc][val], id[mrcn_cmr_with_st]'s acc is 71.71%
+[refcoco+_unc][testA], id[mrcn_cmr_with_st]'s acc is 74.28%
+[refcoco+_unc][testB], id[mrcn_cmr_with_st]'s acc is 66.27%
+
+[refcocog_umd][val], id[mrcn_cmr_with_st]'s acc is 78.96%
+[refcocog_umd][test], id[mrcn_cmr_with_st]'s acc is 78.51%
+[refcocog_umd][val], id[mrcn_cmr_with_st]'s acc is 78.41%
+[refcocog_umd][test], id[mrcn_cmr_with_st]'s acc is 78.22%
+[refcocog_umd][val], id[test99-2]'s acc is 80.37%
+[refcocog_umd][test], id[test99-2]'s acc is 79.24%
+[refcoco_unc][val], id[best]'s acc is 86.58%
+[refcoco_unc][testA], id[best]'s acc is 87.20%
+[refcoco_unc][testB], id[best]'s acc is 85.38%
+[refcoco+_unc][val], id[best]'s acc is 73.69%
+[refcoco+_unc][testA], id[best]'s acc is 76.30%
+[refcoco+_unc][testB], id[best]'s acc is 67.74%
+[refcocog_umd][val], id[ablation_sub_01_loc_00]'s acc is 79.33%
+[refcocog_umd][test], id[ablation_sub_01_loc_00]'s acc is 78.53%
+[refcocog_umd][val], id[ablation_sub_11_loc_01]'s acc is 78.72%
+[refcocog_umd][test], id[ablation_sub_11_loc_01]'s acc is 78.26%
+[refcocog_umd][val], id[ablation_sub_11_loc_01]'s acc is 80.13%
+[refcocog_umd][test], id[ablation_sub_11_loc_01]'s acc is 79.38%
+[refcocog_umd][val], id[test99-2]'s acc is 80.37%
+[refcocog_umd][test], id[test99-2]'s acc is 79.24%
+[refcoco+_unc][val], id[out_method_seed_3]'s acc is 73.55%
+[refcoco+_unc][testA], id[out_method_seed_3]'s acc is 76.42%
+[refcoco+_unc][testB], id[out_method_seed_3]'s acc is 67.09%
