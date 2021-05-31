@@ -1,4 +1,4 @@
-# PyTorch Implementation of MAttNet
+# PyTorch Implementation of Mutatt
 
 ## Introduction
 
