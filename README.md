@@ -1,4 +1,6 @@
 # PyTorch Implementation of Mutatt
+# MUTATT:VISUAL-TEXTUAL MUTUAL GUIDANCE FOR REFERRING EXPRESSION COMPREHENSION (ICME-2020)
+Shuai Wang, Fan Lyu, Wei Feng, Song Wang
 
 ## Introduction
 
